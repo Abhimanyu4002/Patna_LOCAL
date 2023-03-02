@@ -8,4 +8,8 @@ public class LOGINPAGE {
 		System.out.println("hellll");
 	}
 	
+	static void method()
+	{
+		System.out.println("i change here");
+	}
 }
